@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489476254 source:d:\lab exercises\dsa\insertion_sort\main.c
+	<stdio.h>
+	<string.h>
+

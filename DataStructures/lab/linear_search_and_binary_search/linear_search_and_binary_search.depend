@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488871510 source:d:\lab exercises\dsa\linear_search_and_binary_search\main.c
+	<stdio.h>
+	<stdlib.h>
+

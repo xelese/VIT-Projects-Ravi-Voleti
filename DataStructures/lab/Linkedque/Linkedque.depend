@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488267168 source:d:\lab exercises\dsa\linkedque\main.c
+	<stdio.h>
+	<stdlib.h>
+
