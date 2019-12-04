@@ -1,0 +1,42 @@
+#!/bin/bash 
+
+rm -f Review1.txt
+rm -f Review2.txt
+rm -f Review3.txt
+rm -f Review4.txt
+rm -f Review5.txt
+
+rm -f Cast_Review1.txt
+rm -f Screenplay_Review1.txt
+rm -f Director_Review1.txt
+rm -f Animation_Review1.txt
+rm -f Dressing_Review1.txt
+rm -f Music_Review1.txt
+
+rm -f Cast_Review2.txt
+rm -f Screenplay_Review2.txt
+rm -f Director_Review2.txt
+rm -f Animation_Review2.txt
+rm -f Dressing_Review2.txt
+rm -f Music_Review2.txt
+
+rm -f Cast_Review3.txt
+rm -f Screenplay_Review3.txt
+rm -f Director_Review3.txt
+rm -f Animation_Review3.txt
+rm -f Dressing_Review3.txt
+rm -f Music_Review3.txt
+
+rm -f Cast_Review4.txt
+rm -f Screenplay_Review4.txt
+rm -f Director_Review4.txt
+rm -f Animation_Review4.txt
+rm -f Dressing_Review4.txt
+rm -f Music_Review4.txt
+
+rm -f Cast_Review5.txt
+rm -f Screenplay_Review5.txt
+rm -f Director_Review5.txt
+rm -f Animation_Review5.txt
+rm -f Dressing_Review5.txt
+rm -f Music_Review5.txt

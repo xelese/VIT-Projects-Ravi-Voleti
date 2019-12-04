@@ -1,0 +1,42 @@
+#!/bin/bash  
+
+bash deleteall
+
+echo "-------------------------------------------------------------------------"
+echo "BEEP-BEEP I'm the review BOT let me get the Review from IMDB BEEP-BEEP"
+echo "-------------------------------------------------------------------------"
+scrapy crawl Movie1
+scrapy crawl Movie2
+scrapy crawl Movie3
+scrapy crawl Movie4
+scrapy crawl Movie5
+echo "-------------------------------------------------------------------------"
+echo "BEEP-BEEP TASK COMPLETED HUMAN TERMINATION STARTED BEEP-BEEP"
+echo "-------------------------------------------------------------------------"
+
+echo "-------------------------------------------------------------------------"
+echo "BEEP-BEEP CLASSIFYING DATA ACCORDING TO OSCAR CATAGORIES BEEP-BEEP"
+echo "-------------------------------------------------------------------------"
+python Classifier.py
+echo "-------------------------------------------------------------------------"
+echo "BEEP-BEEP TASK COMPLETE I HAVE CLASSIFIED THE DATA"
+echo "-------------------------------------------------------------------------"
+
+echo "-------------------------------------------------------------------------"
+echo "BEEP-BEEP ANALYSING SENTIMENT BEEP-BEEP"
+echo "-------------------------------------------------------------------------"
+cd
+python NLTK.py
+cd moviereview
+echo "-------------------------------------------------------------------------"
+echo "BEEP-BEEP ANALYSIS COMPLETE BEEP-BEEP"
+echo "-------------------------------------------------------------------------"
+echo "-------------------------------------------------------------------------"
+echo "BEEP-BEEP PLOTTING GRAPH BEEP-BEEP"
+echo "-------------------------------------------------------------------------"
+python plot.py
+echo "-------------------------------------------------------------------------"
+echo "BEEP-BEEP PLOTTING GRAPH COMPLETE BEEP-BEEP"
+echo "-------------------------------------------------------------------------"
+
+
