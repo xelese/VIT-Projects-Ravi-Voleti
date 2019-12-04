@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476952295 source:c:\users\lenovo\desktop\dfa\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<new>
+
