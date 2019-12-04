@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1501646226 source:c:\users\samudra borkakoty\documents\codeblocksprojects\hillcipher\main.cpp
+	<iostream>
+	<string.h>
+
+1501648648 source:d:\lab exercises\cryptography\hillcipher\main.cpp
+	<iostream>
+	<string.h>
+

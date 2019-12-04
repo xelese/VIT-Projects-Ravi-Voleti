@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509347028 source:c:\users\samudra borkakoty\documents\codeblocksprojects\rsa\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
+1509347028 source:d:\lab exercises\cryptography\rsa\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+

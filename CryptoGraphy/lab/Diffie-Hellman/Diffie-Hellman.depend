@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509286026 source:c:\users\samudra borkakoty\documents\codeblocksprojects\diffie-hellman\main.cpp
+	<iostream>
+	<math.h>
+
+1509286026 source:d:\lab exercises\cryptography\diffie-hellman\main.cpp
+	<iostream>
+	<math.h>
+

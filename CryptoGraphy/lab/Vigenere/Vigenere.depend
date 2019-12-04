@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509284183 source:c:\users\samudra borkakoty\documents\codeblocksprojects\vigenere\main.cpp
+	<iostream>
+	<string.h>
+
+1509285098 source:d:\lab exercises\cryptography\vigenere\main.cpp
+	<iostream>
+	<string.h>
+

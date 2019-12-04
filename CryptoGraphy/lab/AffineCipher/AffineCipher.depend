@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1501644719 source:c:\users\samudra borkakoty\documents\codeblocksprojects\affinecipher\main.cpp
+	<iostream>
+	<string.h>
+
+1501647004 source:d:\lab exercises\cryptography\affinecipher\main.cpp
+	<iostream>
+	<string.h>
+
